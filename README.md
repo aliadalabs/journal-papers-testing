@@ -1,2 +1,2 @@
-# journal-papers-testing
+# Journal papers :: Test environment
 Journal papers - Test repo 
